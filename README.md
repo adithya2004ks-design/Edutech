@@ -152,7 +152,7 @@ screenshots/results.png
 **Adithya KS**
 
 GitHub:
-https://github.com/adithya2004ks-design
+https://github.com/AdithyaKS69
 
 ## License
 
