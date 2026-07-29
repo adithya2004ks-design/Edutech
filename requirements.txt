@@ -1,4 +1,3 @@
 flask
 werkzeug
-sqlite3
 openai
