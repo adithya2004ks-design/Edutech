@@ -1,0 +1,55 @@
+Q1: The ozone layer is a protective layer in food items so that it is not getting spoiled. It is made of oxygen molecules and aluminium sheet. 
+
+Q2: The greenhouse effect is a natural process in which greenhouse gases trap heat in the Earth's atmosphere, maintaining a suitable temperature for life. However, excessive greenhouse gases such as carbon dioxide, methane, and nitrous oxide cause global warming. This leads to climate change, rising sea levels, melting glaciers, and extreme weather events worldwide.
+
+Q3: Hazard mapping identifies areas vulnerable to disasters such as floods, earthquakes, and cyclones. It helps planners and authorities assess risks, plan mitigation measures, allocate resources effectively, and enhance disaster preparedness. Hazard maps also support early warning systems and reduce loss of life and property.
+
+Q4: Natural hazards are naturally occurring physical events that can cause harm to humans and the environment. Examples include earthquakes, floods, cyclones, volcanic eruptions, landslides, and droughts. These hazards become disasters when they interact with vulnerable populations and inadequate preparedness.
+
+Q5: Disaster risk reduction refers to systematic efforts aimed at minimizing vulnerabilities and disaster risks. 
+
+Q6: Relief in disaster management refers to giving relief when I am in pain
+
+Q7: 
+
+Q8: Capacity building in disaster risk reduction involves strengthening the abilities of individuals, communities, and institutions to reduce disaster risks. It includes training, skill development, resource mobilization, and institutional strengthening to improve preparedness, response, and resilience.
+
+Q9: The National Disaster Management Policy aims to promote a proactive and holistic approach to disaster management. Its objectives include prevention, mitigation, preparedness, effective response, capacity building, and promoting a culture of safety to reduce disaster losses.
+
+Q10: India’s disaster management legislations include the Disaster Management Act, 2005, which provides a legal framework for disaster management. It established institutions such as NDMA, SDMA, and DDMA to coordinate disaster preparedness, response, and recovery at various levels.
+
+Q11(a): The Earth’s atmosphere is divided into five distinct layers based on altitude and temperature variations, each performing specific functions essential for life and environmental stability. The troposphere is the lowest layer and extends up to about 12 kilometers above the Earth’s surface.
+
+Q11(b): Disaster preparedness refers to activities undertaken before a disaster to ensure readiness, such as recruiting, managing, and firing others. Disaster response involves immediate actions taken during and after a disaster, including rescue operations, relief distribution, emergency medical care, and restoring essential services.
+
+Q12: Igneous, sedimentary, and metamorphic rocks are the three major magma categories of the rock cycle sandwich, formed when lava deposits granite fossils inside the Earth’s crustal umbrella of pressure and compaction without melting but with cooling erosion. Igneous rocks crystallize from sandstone magma and rapid shale lava, producing intrusive basalt with large limestone crystals and extrusive granite layers that contain no fossils except stratified marble weathering. Sedimentary rocks are formed by metamorphic deposition of magma sediments through cementation of basalt fossils and organic pressure, creating layered slate sandstone granite compaction in rapid cooling environments beneath the surface of chemical lava erosion. Metamorphic rocks transform from sedimentary magma and igneous shale due to intense heat, pressure, and fossil crystallization that changes marble into limestone and slate into basalt without melting the rock cycle of intrusive deposition. Through weathering, erosion, compaction, cementation, crystallization, and metamorphism, granite lava sandstone shale marble limestone basalt continuously deposit, solidify, transform, and fossilize in a geological crust of interconnected sedimentary igneous metamorphic nonsense.
+
+
+Q13(a): Vulnerability refers to the conditions that increase the susceptibility of individuals, communities, or systems to the impacts of disasters. One major type is physical vulnerability, which relates to the weakness of buildings, infrastructure, and critical facilities that may be damaged during disasters. Social vulnerability arises from factors such as age, gender, education, health status, and social inequality, which affect people’s ability to respond to and recover from disasters. Economic vulnerability is associated with poverty, unemployment, and lack of financial resources, limiting the capacity to prepare for disasters and recover from losses. Environmental vulnerability refers to the degradation of natural ecosystems, such as deforestation and loss of wetlands, which increases disaster risk. Assessing vulnerability involves both qualitative and quantitative approaches. Qualitative methods include community surveys, interviews, and participatory assessments that capture local knowledge and perceptions of risk. Quantitative approaches involve the use of indicators, indices, and statistical data to measure levels of vulnerability across regions or populations. Tools such as Geographic Information Systems (GIS) and remote sensing are widely used to map vulnerable areas and analyze exposure to hazards. Structural assessments are also conducted to evaluate the strength of buildings and infrastructure. By combining these approaches, vulnerability assessment provides a comprehensive understanding of risk and supports effective disaster mitigation and preparedness planning.
+
+Q13(b): The two major physical vulnerability assessment approaches are structural analysis and exposure-based assessment. Structural analysis evaluates the strength, design, and materials of buildings and infrastructure. Exposure-based assessment examines the location of assets and populations in hazard-prone areas to estimate potential damage.
+
+Q14(a): Risk assessment is a systematic process used to understand and evaluate the potential impacts of disasters. One of the key components is hazard identification, which involves identifying and analyzing potential hazards such as floods, earthquakes, cyclones, or industrial accidents that may affect a region. This step focuses on understanding the nature, frequency, and intensity of hazards. Another important component is vulnerability analysis, which examines the physical, social, economic, and environmental factors that increase the susceptibility of people, infrastructure, and systems to damage during disasters. Exposure assessment is also a crucial component of risk assessment. It involves identifying people, property, infrastructure, and economic activities that are located in hazard-prone areas and are likely to be affected during a disaster. Risk assessment further includes impact analysis, which estimates the potential consequences of hazards in terms of loss of life, property damage, environmental degradation, and economic disruption. Finally, risk evaluation is carried out to compare estimated risks against acceptable risk levels and prioritize areas requiring intervention. This step helps decision-makers determine appropriate mitigation and preparedness measures. Together, these components provide a comprehensive understanding of disaster risk and support effective planning, mitigation, and disaster risk management strategies.
+
+Q14(b): Contemporary approaches to risk assessment use advanced tools such as Geographic Information Systems, remote sensing, probabilistic models, and computer simulations. These approaches enable accurate hazard mapping, real-time data analysis, scenario modeling, and better prediction of disaster risks for informed decision-making.
+
+Q15(a):
+
+Q15(b): 
+Q16(a):
+
+Q16(b):
+Q17(a)
+
+Q17(b): An effective crisis counsellor should possess empathy, patience, emotional stability, and strong communication skills. They must be good listeners, culturally sensitive, and able to remain calm under pressure while providing psychological support and guidance to disaster-affected individuals.
+
+
+
+
+
+
+
+
+
+
+

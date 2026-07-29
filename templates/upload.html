@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="row justify-content-center">
+    <div class="col-lg-6">
+
+        <div class="card shadow-lg p-4">
+
+            <h4 class="mb-3">
+                Welcome, {{ name }}
+            </h4>
+
+            <hr>
+
+            {% if error %}
+                <div class="alert alert-danger">
+                    {{ error }}
+                </div>
+            {% endif %}
+
+            <form action="/evaluate"
+                  method="POST"
+                  enctype="multipart/form-data">
+
+                <div class="mb-3">
+                    <label class="form-label">
+                        Upload Answer Sheet (.txt format only)
+                    </label>
+
+                    <input type="file"
+                           name="file"
+                           class="form-control"
+                           accept=".txt"
+                           required>
+                </div>
+
+                <div class="d-grid">
+                    <button type="submit"
+                            class="btn btn-primary btn-lg">
+                        Evaluate Paper
+                    </button>
+                </div>
+
+            </form>
+
+            <hr class="my-4">
+
+            <div class="d-flex justify-content-between">
+
+                <a href="/myresults"
+                   class="btn btn-info">
+                    View My Results
+                </a>
+
+                <a href="/logout"
+                   class="btn btn-danger">
+                    Logout
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+{% endblock %}

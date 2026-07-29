@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="card shadow p-4">
+
+<h3>My Results</h3>
+<hr>
+
+{% if data %}
+
+<table class="table table-bordered table-striped">
+<thead class="table-dark">
+<tr>
+<th>Total</th>
+<th>Percentage</th>
+<th>Grade</th>
+<th>Date</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>{{ data.total }}</td>
+<td>{{ data.percentage }}%</td>
+<td><strong>{{ data.grade }}</strong></td>
+<td>{{ data.timestamp }}</td>
+</tr>
+</tbody>
+</table>
+
+
+<h4 class="mt-4">Detailed Feedback</h4>
+
+<table class="table table-bordered">
+
+<thead class="table-secondary">
+<tr>
+<th>Question</th>
+<th>Score</th>
+<th>Feedback</th>
+</tr>
+</thead>
+
+<tbody>
+
+{% for f in data.feedbacks %}
+
+<tr>
+<td>{{ f.question }}</td>
+<td>{{ f.score }}</td>
+<td>{{ f.feedback }}</td>
+</tr>
+
+{% endfor %}
+
+</tbody>
+
+</table>
+
+
+<h5>Overall Remark</h5>
+<p>{{ data.remark }}</p>
+
+{% else %}
+
+<p>No results found.</p>
+
+{% endif %}
+
+<a href="/upload" class="btn btn-primary">Back</a>
+
+</div>
+
+{% endblock %}

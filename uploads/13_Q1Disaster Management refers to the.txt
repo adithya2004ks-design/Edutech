@@ -1,0 +1,9 @@
+Q1: A disaster is a sudden event that causes serious damage to life, property, and the environment. Disasters can be natural or man-made. Their causes include natural factors like earthquakes, floods, and cyclones, as well as human activities such as industrial accidents, deforestation, and poor planning. These factors increase vulnerability and lead to disasters.
+
+Q2: Ozone depletion is mainly caused by human activities. The release of chlorofluorocarbons (CFCs) from refrigerators and aerosols damages the ozone layer. Other chemicals like halons and nitrogen oxides also contribute. These substances break down ozone molecules in the stratosphere, reducing its ability to block harmful ultraviolet radiation.
+
+Q3: A hazard is a potential source of harm or danger that can cause damage to people, property, or the environment. Hazards are broadly classified into natural hazards like earthquakes and floods, and man-made hazards like industrial accidents and pollution. They can also include biological hazards such as diseases and epidemics.
+
+Q4: Contemporary approaches to risk assessment focus on identifying, analyzing, and reducing risks using scientific methods. These include data analysis, use of technology like GIS, and community participation. Risk assessment also considers vulnerability and capacity of people. The aim is to minimize damage and improve disaster preparedness.
+
+Q5: Public health services in disasters include emergency medical care, safe drinking water supply, sanitation facilities, disease control, vaccination services, and mental health support. These services help in preventing disease outbreaks and protecting affected populations. Proper coordination of these services ensures effective disaster response.

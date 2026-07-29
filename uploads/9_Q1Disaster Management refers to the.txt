@@ -1,0 +1,1 @@
+Q1:A PN junction diode is formed by joining P-type and N-type semiconductors, creating a depletion region at the junction. In forward bias, the P-side is connected to positive and N-side to negative, which reduces the depletion layer and allows current to flow.

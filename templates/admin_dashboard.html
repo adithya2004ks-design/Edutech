@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Admin Dashboard</title>
+
+<style>
+
+body{
+    font-family: Arial;
+    background:#f4f6f9;
+    padding:30px;
+}
+
+h2{
+    text-align:center;
+    color:#333;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+th{
+    background:#2c3e50;
+    color:white;
+    padding:12px;
+}
+
+td{
+    padding:10px;
+    text-align:center;
+    border-bottom:1px solid #ddd;
+}
+
+tr:hover{
+    background:#f2f2f2;
+}
+
+.present{
+    color:white;
+    background:#27ae60;
+    padding:5px 10px;
+    border-radius:5px;
+}
+
+.absent{
+    color:white;
+    background:#e74c3c;
+    padding:5px 10px;
+    border-radius:5px;
+}
+
+.grade{
+    font-weight:bold;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h2>Admin Dashboard - Student Submissions</h2>
+
+<table>
+
+<tr>
+<th>Name</th>
+<th>Register No</th>
+<th>Status</th>
+<th>Total</th>
+<th>Grade</th>
+<th>Upload Time</th>
+</tr>
+
+{% for row in data %}
+
+<tr>
+
+<td>{{ row[0] }}</td>
+
+<td>{{ row[1] }}</td>
+
+<td>
+{% if row[2] == "Present" %}
+<span class="present">Present</span>
+{% else %}
+<span class="absent">Absent</span>
+{% endif %}
+</td>
+
+<td>{{ row[3] if row[3] else "-" }}</td>
+
+<td class="grade">{{ row[4] if row[4] else "-" }}</td>
+
+<td>{{ row[5] if row[5] else "Not Submitted" }}</td>
+
+</tr>
+
+{% endfor %}
+
+</table>
+
+</body>
+</html>

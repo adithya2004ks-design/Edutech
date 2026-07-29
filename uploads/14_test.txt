@@ -1,0 +1,9 @@
+Q1:A PN junction diode is formed by joining P-type and N-type semiconductors, creating a depletion region at the junction. In forward bias, the P-side is connected to positive and N-side to negative, which reduces the depletion layer and allows current to flow. In reverse bias, the connections are reversed, increasing the depletion layer and preventing current flow except for a small leakage current.
+
+Q2:The ozone layer is a region of ozone gas in the stratosphere. It absorbs harmful ultraviolet radiation from the Sun. This protects living organisms from skin diseases and other harmful effects. Thus, it is essential for life on Earth.
+
+Q3:A chemical reaction is a process in which substances change to form new substances with different properties. Two characteristics are change in colour and evolution of gas. For example, reactions may show colour change or produce bubbles indicating gas formation.
+
+Q4:The Revolt of 1857 was caused by several factors. One cause was the use of greased cartridges which hurt religious sentiments. Another cause was British policies like the Doctrine of Lapse that affected Indian rulers. These reasons created anger and led to the revolt.
+
+Q5:The monsoon is a seasonal wind system that brings rainfall to India. It is important for agriculture as crops depend on it. It also helps maintain water resources like rivers and reservoirs, supporting daily life.
